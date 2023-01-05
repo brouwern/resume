@@ -1,0 +1,284 @@
+---
+title: "Nathan L. Brouwer, Phd"
+author: Nathan Brouwer
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: false
+# uncomment this line to produce HTML and PDF in RStudio:
+knit: pagedown::chrome_print
+---
+
+Aside
+================================================================================
+
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> brouwern@gmail.com
+- <i class="fa fa-github"></i> [github.com/brouwern](https://github.com/brouwern)
+- <i class="fa fa-phone"></i> 517-898-5440
+
+
+Relevant Skills {#skills}
+--------------------------------------------------------------------------------
+
+- **STATISTICAL MODELING**: Multiple publications employing **GLMMs** and **GAMMs**.
+
+- **DATA VIZUALIZATION**: Expert exploring & visualizing complex data with **`ggplot2`**.
+
+- **DATA CLEANING**: Expert in **data manipulation** & cleaning, including use of **Tidyverse**.
+
+- **UNSUPERVISED MACHINE LEARNING**: Skilled with identifying patterns in **high-dimensional data** with ordination & cluster analysis.
+
+- **SCIENTIFIC COMMUNICATION**: Excellent written, verbal & graphical communication skills.
+
+- **R PACKAGES**: Experience using R packages to distribute scientific software and organize complex analyses.
+
+- **REPRODUCIBLE WORKFLOWS**: Large portfolio of **RMarkdown** products, including books & package documentation. 
+
+
+
+
+Main
+================================================================================
+
+Nathan L. Brouwer Phd {#title}
+--------------------------------------------------------------------------------
+
+### Computational ecologist specializing in complex datasets
+
+I am a computational ecologist, data scientist and educator with 15 years of experience extracting insights from messy data and communicating the results.  I specialize in using generalized-linear mixed models (GLMMs) to analyze data from long-term observational studies.  Since my PhD I have also taught myself key aspects of bioinformatics, phylogenetics, machine learning and population genomics.  
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Seattle Pacific University
+
+B.S. in Biology
+
+N/A
+
+2002
+
+### University of Pittsburgh
+
+Phd in Biological Sciences
+
+N/A
+
+2015
+
+Dissertation: [Applying multilevel longitudinal models to plant demographic processes: 
+novel insights into the long-term impacts of invasive species and overabundant herbivores.](http://d-scholarship.pitt.edu/26457/)
+
+
+Research & Professional Experience {data-icon=laptop}
+--------------------------------------------------------------------------------
+
+### Lecturer - General & Quantitative Biology
+
+Unv. of Pittsburgh Dept. of Biological Sciences
+
+N/A
+
+2019-present
+
+- Develop and deliver curriculum for updated **Computational Biology** course
+- Instructor for **biostatistics**, writing, intro biology courses & intro biology labs. 
+- Consult on **statistics curriculum** development for laboratory classes.
+
+### Post-doctoral Research Associate
+
+National Aviary
+
+Pittsburgh, PA
+
+2015 - 2019
+
+- Use GLMMs to analyze decade-long tropical bird population & community datasets.
+- Convert published models on migratory birds into an R package & develop methods 
+- Develop methods for sensitivity analysis and uncertainty propagation for migration models
+
+
+### Adjunct Professor - Biology 
+
+La Roche College          
+
+Pittsburgh, PA
+
+2018-2019 (Fall & Winter)
+
+- Co-teach introduction to research course (fall)
+- Develop new lab and data analysis activities
+- Teach writing for biological sciences (winter)
+
+### Adjunct Professor - Biological Data Analysis
+
+Dusquesne Unv. & California Unv. of PA
+
+N/A
+
+2017-2018
+
+- Dusquesne: Teach graduate biostatistics lecture course & consult with students on data analysis (Spring 2018)
+- CalU: Teach undergraduate biostatistics lecture course & develop curriculum for new R-based lab
+
+
+### Graduate Research Assistant
+
+Department of Biological Sciences, University of Pittsburgh
+
+N/A
+
+2010 - 2015
+
+- Manage and analyze decade-long plant population data.
+- Design & conduct field research on plant demography.
+
+
+### Peace Corps Agroforestry Volunteer
+
+National Agricultural Research Institute
+
+The Gambia, West Africa
+
+2004 - 2006
+
+- Assist in staff development, including data analysis and experimental design
+
+### Infecious Disease Research Scientist
+
+University of Washington Department of Allergy & Infectious Disease
+
+N/A
+
+2002 - 2004
+
+
+
+Science Communication {data-icon=file}
+--------------------------------------------------------------------------------
+
+
+### [Computational Biology for All! An open access book for bioinformatics & computational biology vs 0.9](https://brouwern.github.io/compbio4all_book/)
+
+Open-access computational biology textbook 
+
+N/A
+
+2022
+
+**Brouwer**
+
+### [A Little Book of R for Bioinformatics vs. 2.0](https://brouwern.github.io/lbrb/)
+
+Open-access bioinformatics primer.
+
+N/A
+
+2022 
+
+Coghlan (au.) & **Brouwer** (ed., au)
+
+
+R Packages {data-icon=file}
+--------------------------------------------------------------------------------
+
+### Population Modeling: [redstart: An R package for Periodic Full-Annual Cycle Avian Population Models and Monte-Carlo simulation.](https://github.com/brouwern/FACavian)
+
+R implementation and replication of Runge & Marra (2005) Modeling Seasonal Interactions in the Population Dynamics of Migratory Birds.
+
+N/A
+
+2021
+
+**Brouwer** *et al.*
+
+- Website & Tutorials: brouwern.github.io/FACavian/index.html
+
+
+
+Selected Publications {data-icon=file}
+--------------------------------------------------------------------------------
+
+### Population Models: [Direct effects of a non-native invader erode native plant fitness in the forest understory](https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1365-2745.13233)
+
+Journal of Ecology 108:189–198 / [Dryad](https://datadryad.org/stash/dataset/doi:10.5061/dryad.4k7d5n7)
+
+N/A
+
+2019
+
+Bialic-Murphy, **Brouwer** & Kaliz.
+
+### NMDS: [Stream acidification & reduced availability of pollution-sensitive aquatic insects are	associated with dietary shifts in a stream-dependent Neotropical migratory songbird.](doi.org/10.7717/peerj.5141)
+
+PeerJ 6:e5141 / [Data & Code](https://peerj.com/articles/5141/#supplemental-information) 
+
+N/A
+
+2019
+
+Trevelline, Nuttle, Porter, **Brouwer** *et al.* 
+  
+### NMDS: [DNA metabarcoding reveals the importance of aquatic prey subsidies & the structure of dietary niches in a 	community of breeding riparian songbirds.](https://link.springer.com/article/10.1007/s00442-018-4136-0) 
+
+Oecologia 187: 85-98.
+
+N/A
+
+2018
+ 
+Trevelline, **Brouwer** *et al.* 
+
+
+### GLMM: [Avian community characteristics & demographics reveal how conservation value of regenerating tropical dry forests changes with forest age](doi.org/10.7717/peerj.5217)
+
+PeerJ 6: e5217 / Data and Code: [GitHub](https://github.com/brouwern/DRmencia)
+
+N/A
+
+2018
+
+Latta,  **Brouwer** *et al.*
+
+
+
+
+### GLMM: [Long-term monitoring reveals an avian species credit in secondary forest patches of Costa Rica](https://doi.org/10.7717/peerj.3539)
+
+PeerJ 6: e3539 / Data and Code: [Harvard Dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/CEVZPL)
+
+N/A
+
+2017
+
+Latta, **Brouwer** *et al.*
+
+### GAMM: [Increased photosynthetic performance of an invasive forest herb mediated by deer overabundance.](https://academic.oup.com/aobpla/article/9/2/plx011/3074888) 
+
+AoB Plants 9: plx011 / [Data & Code](https://academic.oup.com/aobpla/article/9/2/plx011/3074888#supplementary-data)
+
+N/A
+
+2017
+
+Heberling, **Brouwer** & Kalisz.      
+
+### GLMM: [Mutualism-disrupting allelopathic invader drives carbon stress & vital rate decline in a forest perennial herb.](10.1093/aobpla/plv014)
+
+AoB Plants 7: plv014
+
+N/A
+
+2015
+
+**Brouwer**, Hale & Kalisz.
+
+
+
+
