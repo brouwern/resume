@@ -1,0 +1,402 @@
+---
+title: "Nathan L. Brouwer, Phd"
+author: Nathan Brouwer
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to T for a self-contained HTML page but it'll take longer to render
+    self_contained: true
+# uncomment this line to produce HTML and PDF in RStudio:
+knit: pagedown::chrome_print
+---
+
+Aside
+================================================================================
+
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> brouwern@gmail.com
+- <i class="fa fa-github"></i> [github.com/brouwern](https://github.com/brouwern)
+- <i class="fa fa-phone"></i> 517-898-5440
+
+
+
+<i class="fa fa-graduation-cap"></i> Education {#contact}
+--------------------------------------------------------------------------------
+
+- **B.S., Biology**, with Honors 2002.  Seattle Pacific University.
+
+- **Phd, Biological Sciences** - Ecology & Evolution 2015.  University of Pittsburgh.
+
+
+
+<i class="fa fa-wrench"></i> Skills {#skills}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-box"></i> R packages
+
+- <i class="fa fa-github"></i> GitHub
+
+- <i class="fa fa-database"></i> Open Science
+
+- R programming
+
+- GLMMs (`nlme`, `lme4`, `glmmTMB`, `brms`)
+
+- GAMMs (`mgcv`)
+
+- Reproducible reports & pipelines
+
+- RMarkdown
+
+- Tidyverse
+
+- Data visualization with `ggplot2`
+
+- Scientific communication
+
+
+
+
+ 
+
+
+Main
+================================================================================
+
+
+Nathan L. Brouwer Phd {#title}
+--------------------------------------------------------------------------------
+
+### Data scientist specializing in complex ecological data
+
+I am an ecological data scientist and educator with 15 years of experience extracting insights from messy data and communicating the results.  I specialize in using generalized-linear mixed models (GLMMs) to analyze data from long-term observational studies.  I have also taught myself key aspects of bioinformatics, phylogenetics, machine learning and population genomics. </br> Note - All blue text is hyperlinked to relevant online materials. 
+
+
+
+
+Research & Professional Experience {data-icon=laptop}
+--------------------------------------------------------------------------------
+
+### Assistant Teaching Professor - General & Quantitative Biology
+
+University of Pittsburgh Dept. of Biological Sciences
+
+N/A
+
+present - 2018
+
+- **R programming**: Develop and deliver curriculum for  **[Computational Biology](https://brouwern.github.io/BIOSCI_1540/)** course, focusing on machine learning, reproducibility, and high-dimensional data (4 semesters).
+- **Data analysis**: Instructor for **Biostatistics** (1 semester) and consultant on stats curriculum for lab classes.
+- **Science communication**: Teach [scientific writing](https://github.com/brouwern/1010Syallbus), [non-majors biology](https://brouwern.github.io/BIOSCI_0835/), [intro biology lecture](https://brouwern.github.io/BIOSCI_0160_syllabus/), [Ecology & Evolution Seminar - African Ecology](https://docs.google.com/document/d/1d2Fs8TyGFhXnsvr9H8z3UY6muplNA_ILEYCj8Z0_lp0/edit?usp=sharing), and labs. 
+
+### Post-doctoral Research Associate - Avian Conservation
+
+National Aviary of Pittsburgh
+
+N/A
+
+2018 - 2015
+
+- **GLMMS**: Analyzed decade-long multisite tropical bird population and community datasets.
+- **Data cleaning**: Cleaned and merged diverse datasets of environmental, [remote sensing](https://github.com/brouwern/NDVI3g_GIMMS/blob/master/1_NDVI3g_processing_rasters.Rmd) and organism traits data.
+- **R packages**: Implemented models of migratory bird populations as reproducible software. 
+- **Computational ecology**: Developed sensitivity and uncertainty analyses methods for for migration models.
+
+
+### Adjunct Professor - Biological Data Analysis
+
+Duquesne Unv. & California Unv. of PA
+
+N/A
+
+2017 - 2016
+
+- **R programming & data science**: Taught [grad ](https://github.com/brouwern/graduateR) (Duq., Spring 2017) and [undergrad ](https://github.com/brouwern/undergradR) data analyses courses (CalU, Fall 2016 and 2017). 
+
+
+### Graduate Student
+
+Department of Biological Sciences, University of Pittsburgh
+
+N/A
+
+2015 - 2009
+
+- Graduate Research Fellow (2009-2010, 2014-2015) and NSF Pre-Doctoral Fellow (2010-2013).
+- **GLMMs**: Determined appropriate model structures and analyzed data.
+- **Data cleaning**: Updated, cleaned and managed data for decade-long plant demographic experiment.
+- **Field work**: Designed and conducted research on plant demography.
+
+### Science Writer 
+
+[Quantum Scientific Publishing](https://www.linkedin.com/company/quantum-scientific-publishing/)
+
+N/A
+
+2008 - 2009
+
+- Wrote and edited customized biology materials for online charter schools.
+
+::: aside
+
+<span style="font-weight: 400; font-size: 1.1rem"><i class="fa fa-heart"></i> PASSIONS</span>
+<br>
+
+Conservation Biology
+
+African Ecosystems
+
+Forest Ecology
+
+Species Interactions
+
+Open Science & Open data
+
+Science Communication
+
+:::
+
+### Graduate Student / NSF Pre-Doctoral Fellow
+
+Dept. of Zoology, Michigan State State University
+
+N/A
+
+2007 - 2008
+
+- **Data Cleaning**: Cleaned, organized and analyzed large-scale avian community ecology dataset.
+
+
+
+### Peace Corps Volunteer - Agroforestry Outreach
+
+National Agricultural Research Institute, The Gambia, West Africa
+
+N/A
+
+2006 - 2004
+
+- **Science communication**: Assisted in staff development and conducted outreach on  sustainable agriculture.
+
+### Infecious Disease Research Scientist
+
+University of Washington Department of Allergy & Infectious Disease
+
+N/A
+
+2004 - 2002
+
+- **Lab work**: Conducted experiments on pathogen cell-adhesion proteins.
+
+
+
+Publications - Science Education {data-icon=book}
+--------------------------------------------------------------------------------
+
+### [Ecology for All!](https://bio.libretexts.org/Courses/Gettysburg_College/01%3A_Ecology_for_All)
+
+Curated compilation of Open-Access ecology resources and new content.
+
+N/A
+
+2022
+
+Gowarnis, **Brouwer** et. al.
+
+- **Original content**: 
+- Chapter 9: Ecology of Populations, section [9.1](https://bio.libretexts.org/Courses/Gettysburg_College/01%3A_Ecology_for_All/09%3A_The_Ecology_of_Populations/9.01%3A_What_is_population_ecology)
+- Chapter 10: Population modeling, sections [10.1](https://bio.libretexts.org/Courses/Gettysburg_College/01%3A_Ecology_for_All/10%3A_Population_modeling/10.01%3A_Prelude-_Learning_the_Math_of_Population_Models), [10.2](https://bio.libretexts.org/Courses/Gettysburg_College/01%3A_Ecology_for_All/10%3A_Population_modeling/10.02%3A_Demographic_rates), and [10.4](https://bio.libretexts.org/Courses/Gettysburg_College/01%3A_Ecology_for_All/10%3A_Population_modeling/10.04%3A_Projecting_population_growth)
+
+### [Computational Biology for All! vs 0.9](https://brouwern.github.io/compbio4all_book/)
+
+An open access book for bioinformatics and computational biology.
+
+N/A
+
+2021
+
+**Brouwer**
+
+### [A Little Book of R for Bioinformatics vs. 2.0](https://brouwern.github.io/lbrb/)
+
+Open-access bioinformatics primer.
+
+N/A
+
+2021
+
+Coghlan (au.) & **Brouwer** (ed., au)
+
+
+
+R Packages (available on GitHub) {data-icon=box}
+--------------------------------------------------------------------------------
+
+### [*redstart*](https://brouwern.github.io/redstart/reference/index.html)
+
+R implementation and replication of Runge & Marra (2005) *Modeling Seasonal Interactions in the Population Dynamics of Migratory Birds*.
+
+N/A
+
+N/A
+
+**Brouwer** *et al.*
+
+### [*combio4all*](https://github.com/brouwern/compbio4all)
+
+A repository of functions and data useful for introductory bioinformatics and computational biology.
+
+N/A
+
+N/A
+
+**Brouwer** & Coghlan 
+
+
+
+Publications {data-icon=file .page-break-before}
+--------------------------------------------------------------------------------
+
+::: aside
+
+<span style="font-weight: 400; font-size: 1.1rem"></i> PUBLICATION TOPICS</span>
+<br>
+
+Demographic models
+
+Longitudinal GLMMs
+
+Species interactions
+
+Tropical birds
+
+Invasive species
+
+:::
+
+### [Direct effects of a non-native invader erode native plant fitness in the forest understory](https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1365-2745.13233)
+
+Journal of Ecology 108:189–198 
+
+N/A
+
+2019
+
+Bialic-Murphy, **Brouwer** & Kaliz.
+
+::: concise
+- <i class="fa fa-wrench"></i> **GLMM**
+- <i class="fa fa-database"></i> [Dryad](https://datadryad.org/stash/dataset/doi:10.5061/dryad.4k7d5n7)
+:::
+
+
+
+### [Stream acidification and reduced availability of pollution-sensitive aquatic insects are	associated with dietary shifts in a stream-dependent Neotropical migratory songbird.](doi.org/10.7717/peerj.5141)
+
+PeerJ 6:e5141 
+
+N/A
+
+2019
+
+Trevelline, Nuttle, Porter, **Brouwer** *et al.* 
+
+- <i class="fa fa-wrench"></i> **Unsupervised Machine Learning** (NMDS)
+- <i class="fa fa-database"></i> [PeerJ Appendix](https://peerj.com/articles/5141/#supplemental-information)
+  
+### [DNA metabarcoding reveals the importance of aquatic prey subsidies and the structure of dietary niches in a 	community of breeding riparian songbirds.](https://link.springer.com/article/10.1007/s00442-018-4136-0) 
+
+Oecologia 187: 85-98
+
+N/A
+
+2018
+ 
+Trevelline, **Brouwer** *et al.* 
+
+- <i class="fa fa-wrench"></i> **Unsupervised Machine Learning** (NMDS)
+
+
+### [Avian community characteristics and demographics reveal how conservation value of regenerating tropical dry forests changes with forest age](doi.org/10.7717/peerj.5217)
+
+PeerJ 6: e5217 
+
+N/A
+
+2018
+
+Latta,  **Brouwer** *et al.*
+
+::: concise
+- <i class="fa fa-wrench"></i> **GLMM**, **`ggplot`**
+- <i class="fa fa-database"></i> [GitHub](https://github.com/brouwern/DRmencia)
+:::
+
+
+### [Long-term monitoring reveals an avian species credit in secondary forest patches of Costa Rica](https://doi.org/10.7717/peerj.3539)
+
+PeerJ 6: e3539
+
+N/A
+
+2017
+
+Latta, **Brouwer** *et al.*
+
+
+::: concise
+- <i class="fa fa-wrench"></i> **GLMM**, **`ggplot`**
+- <i class="fa fa-database"></i> [Harvard Dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/CEVZPL)
+:::
+
+
+### [Increased photosynthetic performance of an invasive forest herb mediated by deer overabundance](https://academic.oup.com/aobpla/article/9/2/plx011/3074888) 
+
+AoB Plants 9: plx011 
+
+N/A
+
+2017
+
+Heberling, **Brouwer** & Kalisz.  
+
+- <i class="fa fa-wrench"></i> **GAMM**
+- <i class="fa fa-database"></i> [GAMM - GitHub](https://github.com/brouwern/gamm_derivatives)
+- <i class="fa fa-database"></i> [AoB Plants](https://academic.oup.com/aobpla/article/9/2/plx011/3074888#supplementary-data)
+
+
+### [Mutualism-disrupting allelopathic invader drives carbon stress and vital rate decline in a forest perennial herb](10.1093/aobpla/plv014)
+
+AoB Plants 7: plv014
+
+N/A
+
+2015
+
+**Brouwer**, Hale & Kalisz.
+
+- <i class="fa fa-wrench"></i> **GLMM**, **`ggplot2`**
+
+### [Defining the interaction of the *Treponema pallidum* adhesin Tp0751 with laminin](10.1093/http://iai.asm.org/content/73/11/7485.short/plv014)
+
+Infection & Immunity. 73: 7485-7494.
+
+N/A
+
+2005
+
+Cameron, **Brouwer**, *et al.*
+
+### [*Treponema pallidum* fibronectin-binding proteins](http://jb.asm.org/content/186/20/7019.short)
+
+Journal of Bacteriology. 186:7019-7022.
+
+N/A
+
+2004
+
+Cameron, **Brouwer** *et al.*
+
